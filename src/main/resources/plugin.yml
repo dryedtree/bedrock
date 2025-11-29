@@ -1,0 +1,5 @@
+name: BedrockBreak
+main: xyz.bedrockbreak.BedrockBreak
+version: 1.0
+api-version: 1.12
+description: Enable piston-based bedrock breaking for Eaglercraft 1.12.2 PaperSpogit
